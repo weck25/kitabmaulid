@@ -88,7 +88,7 @@ body a:hover{
     width: 24%;
 }
 .header {
-    background: #8b008b;
+    background: #696969;
     padding: 1.2em 3em;
 }
 .menu-icon,.logo,.login{
@@ -103,7 +103,7 @@ body a:hover{
 	font-family: 'Roboto', sans-serif;
 }
 .logo h2 a { 
-    color: #8b008b;
+    color: #696969;
     background: #fff; 
     font-weight: 300;
     border-radius: 50%;
@@ -133,7 +133,7 @@ body a:hover{
     color: #fff;
     border-bottom: 1px solid #FFF;
     text-transform: none;
-    background: #6b046b;
+    background: #696969;
     font-family: 'Abel', sans-serif;
 	-webkit-transform: translate3d(0,500px,0);
     -moz-transform: translate3d(0,500px,0);
@@ -163,7 +163,7 @@ ul.nav-sub li a {
     padding-left: 3.5em;
 }
 .top-nav li a:hover,.top-nav li a.active { 
-    background: #780278;
+    background: #696969;
 }
 .top-nav i.glyphicon {
     margin-right: 10px;
@@ -280,7 +280,7 @@ ul.nav-sub {
 } 
 /*-- start scroll pane --*/
 .nicescroll-cursors {
-    background-color: #6b046b !important;
+    background-color: #1a1a1a !important;
     border: 1px solid #b3b3b3;
 }
 
@@ -307,7 +307,7 @@ ul.nav-sub {
     z-index: 1001;
     width: 185px !important;
     height: 100% !important; 
-    background: #940494; 
+    background: #0d0d0d; 
     -webkit-transform: translate3d(-320px,0,0);
 	-moz-transform: translate3d(-320px,0,0);
 	-o-transform: translate3d(-320px,0,0);
@@ -489,7 +489,7 @@ ul.nav-sub {
 .nav-tabs li a span.glyphicon {
     font-size: 1.1em;
     color: #fff;
-    background: #8b008b;
+    background: #696969;
     padding: 0.9em;
 	-webkit-border-radius: 50%;
 	-moz-border-radius: 50%; 
@@ -545,7 +545,7 @@ ul.nav-sub {
 	transition:.5s all;
 }
 .welcome button.btn.btn-default:hover {
-    background: #8b008b;
+    background: #696969;
 }
 .welcome span.glyphicon {
     font-size: 1em;
@@ -553,16 +553,16 @@ ul.nav-sub {
     padding: 3px;
 }
 .nav-tabs > li.active >a h5 {
-    color: #8b008b;
+    color: #696969;
 }
 .nav-tabs > li.active a span.glyphicon {
-    background: #1e9c95;
+    background: #1a1a1a;
 }
 a.w3-search {
     color: #fff;
     display: inline-block;
     padding: .5em 1em;
-    background: #8b008b;
+    background: #696969;
     text-align: center;
     margin-top: 1em;
     text-decoration: none;
@@ -686,7 +686,7 @@ p {
 	transition:.5s all;
 }
 .w3ls-text h5 a:hover{
-    color: #8b008b; 
+    color: #696969; 
 }
 .w3ls-text h6 {
     font-size: 1em;
@@ -761,7 +761,7 @@ p {
 	animation-iteration-count: 1;
 }
 .properties-img .view-caption {
-	background-color: #8b008b;
+	background-color: #696969;
 	-webkit-transition: all cubic-bezier(0.27, 0.89, 0.95, 0.59) 0.5s;
 	-moz-transition: all cubic-bezier(0.27, 0.89, 0.95, 0.59) 0.5s;
 	-ms-transition: all cubic-bezier(0.27, 0.89, 0.95, 0.59) 0.5s;
@@ -814,7 +814,7 @@ p {
     background-color: #09cbce;
 }
 .properties-img .w3ls-buy a {
-    background-color: #8b008b;
+    background-color: #696969;
     border-radius: 50%;
     color: #ffffff;
     display: inline-block;
@@ -1045,7 +1045,7 @@ button.mfp-arrow {
     text-decoration: none;
     text-align: center;
     padding: 0 0 18px 10px;
-    color: #8b008b;
+    color: #696969;
     font-style: normal;
     font-size: 35px;
     outline: none;
@@ -1088,11 +1088,11 @@ button.mfp-arrow {
  
 .booking-info h3 {
     font-size: 2.1em;
-    color: #8b008b;
+    color: #696969;
     text-align: center;
 }
 .booking-info h3 a{ 
-    color: #8b008b; 
+    color: #696969; 
 	text-decoration:none;
 }
 .booking-info h3 a:hover{ 
@@ -1164,7 +1164,7 @@ button.mfp-arrow {
     text-align: center;
 }
 .login-form p a {
-    color: #8b008b;
+    color: #696969;
     margin-left: 5px;
 	-webkit-transition:.5s all;
 	-moz-transition:.5s all;
@@ -1192,7 +1192,7 @@ button.mfp-arrow {
 .wthree-text input[type="checkbox"]+label span:first-child {
     width: 16px;
     height: 16px;
-    border: 2px solid #8b008b;
+    border: 2px solid #696969;
     position: absolute;
     left: 0;
     top: 1px;
@@ -1241,7 +1241,7 @@ button.mfp-arrow {
     -webkit-appearance: none;
 }
 .login-form input[type="submit"]:hover {
-    background: #8b008b;
+    background: #696969;
 }
 .login-form.signup-form label {
     text-align: left;
@@ -1326,7 +1326,7 @@ button.mfp-arrow {
 .services-grid h5 {
     font-size: 1.2em;
     margin: 0.8em 0 0;
-    color: #8b008b;
+    color: #696969;
 }
 /*-- //services --*/
 .about ul li {
@@ -1384,7 +1384,7 @@ p.w3-text{
     position: absolute;
     left: -10px;
     top: 30px;
-    background: #8b008b;
+    background: #696969;
     line-height: 1.5em;
     font-weight: normal;
     padding: .3em 0.8em;
@@ -1437,7 +1437,7 @@ p.w3-text{
     font-size: 1.2em; 
 }
 .latest-grids-text h5 a {
-    color: #8b008b;
+    color: #696969;
 	text-decoration:none;
 }
 .latest-grids-text h5 a:hover{
@@ -1726,7 +1726,7 @@ p.w3-text{
     margin-bottom: 1em;
 }
 .w3ls-features ul li span.glyphicon {
-    color: #8b008b;
+    color: #696969;
     font-size: .8em;
     margin: 0 10px;
 }
@@ -1753,7 +1753,7 @@ p.w3-text{
 /*-- short-codes --*/
 h3.hdg {
     font-size: 1.6em;
-    color: #8b008b !important;
+    color: #696969 !important;
     font-weight: 300;
 }
 .show-grid [class^=col-] {
